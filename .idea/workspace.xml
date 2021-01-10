@@ -48,12 +48,15 @@
       <option name="presentableId" value="Default" />
       <updated>1609675257573</updated>
       <workItem from="1609675258601" duration="516000" />
-      <workItem from="1610289108350" duration="3011000" />
+      <workItem from="1610289108350" duration="3528000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
